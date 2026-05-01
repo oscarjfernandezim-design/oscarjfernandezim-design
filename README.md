@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Oscar+Fernandez+👋;Multimedia+Engineer+%7C+Colombia+🇨🇴;Computer+Graphics+%7C+Scientific+Viz;GSoC+2026+Applicant+%40+FURY)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Oscar+Fernandez+👋;Multimedia+Engineer+%7C+Colombia+🇨🇴;Computer+Graphics+%7C+Scientific+Viz)](https://git.io/typing-svg)
 
 ---
 
